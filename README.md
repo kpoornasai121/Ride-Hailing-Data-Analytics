@@ -18,10 +18,10 @@
 
 ## File Structure
 
-├── [Excel_Sheets.xlsx](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/Excel_Sheets.xlsx)
-├── [script.sql](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/script.sql)
-├── [Dashboard.pbix](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/Dashboard.pbix)
-├── [Image.jpg](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/Image.jpg)
+- [Excel_Sheets.xlsx](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/Excel_Sheets.xlsx)
+- [script.sql](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/script.sql)
+- [Dashboard.pbix](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/Dashboard.pbix)
+- [Image.jpg](https://github.com/kpoornasai121/Ride-Hailing-Data-Analytics/blob/main/Image.jpg)
 
 
 ## Technologies Used
